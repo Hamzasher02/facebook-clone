@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "113634018377",
+    "firebase_url": "https://hellodoctor-bb343-default-rtdb.firebaseio.com",
+    "project_id": "hellodoctor-bb343",
+    "storage_bucket": "hellodoctor-bb343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113634018377:android:d8261af6f1f974d247eb98",
+        "android_client_info": {
+          "package_name": "com.example.facbookdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGDsznNLjvDPPWYrXJfN2i02VmB7DKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
